@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![ddyankov's 42 stats](https://badge42.vercel.app/api/v2/clehax26100350fkzgj6s5oz9/stats?cursusId=21&coalitionId=255)](https://github.com/JaeSeoKim/badge42)
-<img src="https://github-readme-stats.vercel.app/api?username=ddyankov28&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ddyankov28&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=dark"/>
