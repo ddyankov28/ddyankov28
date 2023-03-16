@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![<username>'s 42 stats](https://badge.mediaplus.ma/black/ddyankov)](https://github.com/oakoudad/badge42)
 <img src="https://github-readme-stats.vercel.app/api?username=ddyankov28&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=dark"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
