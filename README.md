@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is Deyan. I am a 42 Student in Vienna!
 
 <!--
 **ddyankov28/ddyankov28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
