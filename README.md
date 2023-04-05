@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=dark"/>
   
 [![My Skills](https://skillicons.dev/icons?i=c,vscode)](https://skillicons.dev)
-
-![](so_long.gif)
