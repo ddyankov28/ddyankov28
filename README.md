@@ -15,7 +15,7 @@ Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Venna, Austria �
 - 🤖 About me: I am from Bulgaria 🇧🇬 I used to play football ⚽️ I love Coding 💻
 - 💬 Ask me about anything !
 - 📫 How to reach me: <div id="badges">
-  <a href="https://www.linkedin.com/in/deyan-dyankov-53a73625a/">
+  <a href="https://www.linkedin.com/in/ddyankov23">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/deyandyankov23/">
