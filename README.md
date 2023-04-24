@@ -28,12 +28,7 @@ Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Venna, Austria �
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=ddyankov28&show_icons=true&theme=dark"/>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=dark"/>
-  
-[![My Skills](https://skillicons.dev/icons?i=c,vscode)](https://skillicons.dev)
