@@ -1,7 +1,4 @@
-Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Venna, Austria 🇦🇹!
-
-[![ddyankov's 42 stats](https://badge42.vercel.app/api/v2/clehax26100350fkzgj6s5oz9/stats?cursusId=21&coalitionId=255)](https://github.com/JaeSeoKim/badge42)
-
+Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Vienna, Austria 🇦🇹!
 - 🔭 I’m currently working on 42 School Common Core Projects
 - 🛠️ My Skills up to now are
  
