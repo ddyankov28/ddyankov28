@@ -23,4 +23,4 @@ Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Vienna, Austria �
   </a>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ddyankov28&show_icons=true&theme=dark"/>
+
