@@ -2,10 +2,10 @@ Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Vienna, Austria �
 - 🔭 I’m currently working on 42 School Common Core Projects
 - 🛠️ My Skills up to now are
  
-  [![My Skills](https://skillicons.dev/icons?i=c,vscode,bash,vim,linux,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
 - 🌱 I’m currently learning 
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,py,docker,wordpress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,py,react,js)](https://skillicons.dev)
 - 🤖 About me: I am from Bulgaria 🇧🇬 I used to play football ⚽️ I love Coding 💻
 - 💬 Ask me about anything !
 - 📫 How to reach me: <div id="badges">
