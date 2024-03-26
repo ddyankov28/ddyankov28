@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)\n
-Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Vienna, Austria 🇦🇹!
+![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)
+- Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Vienna, Austria 🇦🇹!
 - 🔭 I’m currently working on 42 School Common Core Projects
 - 🛠️ My Skills up to now are
  
