@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)
-- Hi there 🙋‍♂️ My Name is Deyan. I am a 42 student in Vienna, Austria 🇦🇹!
-- 🔭 I’m currently working on 42 School Common Core Projects
+- HELLO, 🙋‍♂️ MY NAME IS DEYAN. I AM A  SOFTWARE DEVELOPER LIVING IN VIENNA, AUSTRIA🇦🇹
+- 🔭 # I’m currently working on 42 School Common Core Projects
 - 🛠️ My Skills up to now are
  
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
