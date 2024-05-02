@@ -1,15 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)
-- HELLO, 🙋‍♂️ MY NAME IS DEYAN. I AM A  SOFTWARE DEVELOPER LIVING IN VIENNA, AUSTRIA🇦🇹
-- 🔭 # I’m currently working on 42 School Common Core Projects
-- 🛠️ My Skills up to now are
- 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
-- 🌱 I’m currently learning 
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,py,react,js)](https://skillicons.dev)
-- 🤖 About me: I am from Bulgaria 🇧🇬 I used to play football ⚽️ I love Coding 💻
-- 💬 Ask me about anything !
-- 📫 How to reach me: <div id="badges">
+- 🙋‍♂️ HELLO, MY NAME IS DEYAN.
+- ✅ I SUCCESSFULLY FINISHED THE 42 SCHOOL COMMON CORE.
+- 🛠️ MY SKILLS UP TO NOW ARE
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css.py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
+- 🤖 ABOUT ME: I AM FROM BULGARIA 🇧🇬 I USED TO PLAY FOOTBALL ⚽️ I LOVE CODING 💻.
+- 💬 ASK ME ABOUT ANYTHING!
+- 📫 HOW TO REACH ME: <div id="badges">
   <a href="https://www.linkedin.com/in/ddyankov23">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
