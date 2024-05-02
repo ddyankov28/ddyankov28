@@ -2,7 +2,7 @@
 - 🙋‍♂️ HELLO, MY NAME IS DEYAN.
 - ✅ I SUCCESSFULLY FINISHED THE 42 SCHOOL COMMON CORE.
 - 🛠️ MY SKILLS UP TO NOW ARE
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css.py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
 - 🤖 ABOUT ME: I AM FROM BULGARIA 🇧🇬 I USED TO PLAY FOOTBALL ⚽️ I LOVE CODING 💻.
 - 💬 ASK ME ABOUT ANYTHING!
 - 📫 HOW TO REACH ME: <div id="badges">
