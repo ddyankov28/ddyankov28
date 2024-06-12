@@ -1,9 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)
-- 🙋‍♂️ HELLO, MY NAME IS DEYAN.
-- ✅ I SUCCESSFULLY FINISHED THE 42 SCHOOL COMMON CORE.
+- ✅ 42 VIENNA COMMON CORE DONE.
 - 🛠️ MY SKILLS UP TO NOW ARE<br>
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
-- 🤖 ABOUT ME: I AM FROM BULGARIA 🇧🇬 I USED TO PLAY FOOTBALL ⚽️ I LOVE CODING 💻.
+- 🤖 ABOUT ME: EVERYDAY PROGRESS.
 - 💬 ASK ME ABOUT ANYTHING!
 - 📫 HOW TO REACH ME: <div id="badges">
   <a href="https://twitter.com/ddyankov23">
