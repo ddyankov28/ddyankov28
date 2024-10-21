@@ -17,7 +17,7 @@ jobs:
           USERNAME: ddyankov28
       - name: Commit & Push
         run: |
-          git config Deyan Dyankov github-actions
+          git config "Deyan Dyankov" github-actions
           git config deyandyankov23@yahoo.com github-actions@github.com
           git add -A .
           git commit -m "generated"
