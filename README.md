@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)<br>
 ✅ 42 VIENNA COMMON CORE DONE
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github,bootstrap,django,npm)](https://skillicons.dev)
   <div id="badges">
   <a href="https://twitter.com/ddyankov23">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -17,4 +17,3 @@
   </a>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyankov28&layout=compact&theme=dark"/>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
