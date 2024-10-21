@@ -1,10 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)
 - ✅ 42 VIENNA COMMON CORE DONE.
-- 🛠️ MY SKILLS UP TO NOW ARE<br>
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
-- 🤖 ABOUT ME: EVERYDAY PROGRESS.
-- 💬 ASK ME ABOUT ANYTHING!
-- 📫 HOW TO REACH ME: <div id="badges">
+  <div id="badges">
   <a href="https://twitter.com/ddyankov23">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
