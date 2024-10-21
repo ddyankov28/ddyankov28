@@ -14,7 +14,7 @@ jobs:
       - uses: gumbobrot/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: ddyankov
+          USERNAME: ddyankov28
       - name: Pull latest changes
         run: git pull --force origin main
       - name: Commit & Push
