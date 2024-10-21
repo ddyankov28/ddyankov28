@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)
-- ✅ 42 VIENNA COMMON CORE DONE.
+✅ 42 VIENNA COMMON CORE DONE
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github)](https://skillicons.dev)
   <div id="badges">
   <a href="https://twitter.com/ddyankov23">
