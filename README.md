@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ddyankov28&color=red)<br>
 ✅ 42 VIENNA COMMON CORE DONE
-<br>
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,py,docker,wordpress,vscode,bash,vim,linux,github,bootstrap,django,npm&perline=4)](https://skillicons.dev)
+<br><br>
+  --- | Programming Languages and Tools I use | ---<br>[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,docker,wordpress,vscode,bash,ubuntu,pycharm,vim,linux,github,git,angular,bootstrap,django,npm&perline=7)](https://skillicons.dev)
   <div id="badges">
   <a href="https://twitter.com/ddyankov23">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
